@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView mRecyclerView ;
     private BtnListAdapter btnAdapter;
     private LinearLayoutManager mLayoutManager;
-//
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
