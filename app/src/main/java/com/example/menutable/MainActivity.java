@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onTabSelected(TabLayout.Tab tab) {
                 int pos = tab.getPosition() ;
-                changeTabView(pos) ;
+                changeTabView(pos);
             }
             @Override
             public void onTabUnselected(TabLayout.Tab tab) {
